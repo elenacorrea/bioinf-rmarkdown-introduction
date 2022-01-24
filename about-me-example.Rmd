@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-author: "Eric C. Anderson"
+author: "Elena C.A. Correa"
 output:
   html_document:
     toc: yes
@@ -13,47 +13,21 @@ bibliography: references.bib
 
 # Who I am and where I came from
 
-I grew up in a small town in Southern California.  When I was 11 years old,
-I spent five weeks living with a family friend who ran the hyperbaric chamber
-adjacent to the University of Southern California Marine Lab on Catalina Island.
-Days spent snorkeling the kelp beds, keeping intertidal organisms in an aquarium
-I was allowed to fill, and watching researchers tag blue sharks convinced me that
-I wanted to be a marine biologist.  
+I'm Laney! I'm from Maine.
 
-In high school, however, I got into rock climbing and became a little math/physics nerd.
-I went to [Stanford University](https://www.stanford.edu/) planning to major in
-Mathematics, but got super intimidated by all the smart, wonky people in my first
-honors math class.  I took a year-long detour to
-[Prescott College](https://www.prescott.edu/), where I had my first class in evolution
-and wondered why the hell my high-school biology class was not taught in the context
-of evolution.
+After work I'm going to [Venus Spirits](https://www.venusspirits.com/), where I will probably order a frozen Paloma.
 
-I ended up studying human biology at Stanford, and then went to
-[University of Washington](https://www.washington.edu/) for graduate work. I started
-in Fisheries, but then got involved in genetics research that needed some
-new statistical developments.  Thus, my math nerdiness was resurrected and
-I did my PhD in Quantitative Ecology and Resource Management, focusing on
-the use of Monte Carlo methods for inference from population genetic models.
+The top four things that are closest to me right now are:
 
-After a two-year postdoc at Berkeley, I started working for the National Marine
-Fisheries Service in Santa Cruz, CA.  I actually did become a marine biologist,
-sort of! I still work for NMFS, but a year and a half
-ago I moved to Fort Collins with Kristen, and have an affiliate position
-in FWCB.
+1. Phone
+2. Mechanical pencil
+3. Pick sheet (T2149)
+4. Air pods 
 
-When I am not working I love getting out and being active. My top four things
-to do are:
-
-1. Snorkeling in rivers and creeks, backpacking, and hiking (all with my family),
-1. Playing hockey (I learned to skate after moving here.  What a blast!),
-1. Biking,
-1. Playing with our pair of awesome, springy cats.  
-
-Here is a picture of me with daughter Zoe, looking for aquatic invertebrates
-above the CSU Mountain Campus.
+Here is a screen shot of what I am doing right now (working on this homework).
 
 ```{r me_pic, echo=FALSE, out.width="500px"}
-knitr::include_graphics("images/eric.jpg", auto_pdf = TRUE)
+knitr::include_graphics("Screen Shot 2022-01-21 at 4.39.29 PM.png", auto_pdf = TRUE)
 ```
 
 
